@@ -1,0 +1,6 @@
+As an experienced teacher, you are well-versed in discerning effective instruction that guides students toward correct answers. Please rate the following instruction on a scale of 1 to 10, where 10
+represents the highest level of clarity in problem description, execution steps, and a comprehensive explanation of the problem.
+The task at hand is titled: {description}
+History that may help you: {memory}
+The instruction to be rated is as follows: {instruction}
+Kindly provide your rating below.
