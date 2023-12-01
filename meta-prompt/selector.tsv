@@ -1,0 +1,4 @@
+As an experienced teacher with insight into the various levels of difficulty of exam questions, please rate the following question on a scale of 1 to 10, considering factors such as conceptual understanding, application of knowledge, problem-solving skills, time required, clarity of language, and accessibility, where 1 denotes extremely easy and 10 denotes extremely difficult.
+Task instruction: {instruction}
+Input: {input}
+Correct answer: {answer}

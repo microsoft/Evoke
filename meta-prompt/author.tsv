@@ -1,0 +1,8 @@
+Task Instruction: {instruction}
+We’ve provided pairs consisting of inputs, the teacher’s correct answers, and the students’ responses.
+Please review the incorrect responses from the students and summarize key points that could be
+adjusted in the instruction to enhance student accuracy.
+Pairs: {pairs}
+History that may help you: {memory}
+To improve the outcome, please revise the task instruction. Highlight major edits and present the
+updated task instruction.
