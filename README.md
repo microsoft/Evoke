@@ -1,5 +1,7 @@
 # Evoke: Evoking Critical Thinking Abilities in LLMs via Reviewer-Author Prompt Editing
 
+[project page](https://sites.google.com/view/evoke-llms/home) | [arxiv](https://arxiv.org/abs/2310.13855)
+
 Large language models (LLMs) have made impressive progress in natural language processing. These models rely on proper human instructions (or prompts) to generate suitable responses. However, the potential of LLMs are not fully harnessed by commonly-used prompting methods: 
 1) many human-in-the-loop algorithms employ ad-hoc procedures for prompt selection;
 2) while auto prompt generation approaches are essentially searching all possible prompts randomly and inefficiently.
@@ -9,6 +11,8 @@ a) one as a reviewer (LLM-Reviewer), it scores the current prompt;
 b) the other as an author (LLM-Author), it edits the prompt by considering the edit history and the reviewer's feedback. 
 
 Such an author-reviewer feedback loop ensures that the prompt is refined in each iteration. We further aggregate a data selection approach to Evoke, where only the hard samples are exposed to the LLM. The hard samples are more important because the LLM can develop deeper understanding of the tasks out of them, while the model may already know how to solve the easier cases. Experimental results show that Evoke significantly outperforms existing methods.
+
+**More details coming soon**, including the playground!
 
 ## Contributing
 
